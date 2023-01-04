@@ -24,3 +24,5 @@
 			return topo.size()==n;
 		}
 	};
+
+// link : https://leetcode.com/problems/course-schedule/description/
